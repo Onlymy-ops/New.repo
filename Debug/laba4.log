@@ -1,0 +1,30 @@
+﻿  laba4.cpp
+D:\Новая папка\laba4\laba4\Computer_game.h(23,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "~"
+D:\Новая папка\laba4\laba4\laba4.cpp(9,35): error C2660: Computer_game::setName: функция не принимает 1 аргументов
+D:\Новая папка\laba4\laba4\Computer_game.h(21,7): message : см. объявление "Computer_game::setName"
+D:\Новая папка\laba4\laba4\laba4.cpp(10,37): error C2664: "void Computer_game::setNumber_of_player(const char *)": невозможно преобразовать аргумент 1 из "int" в "const char *"
+D:\Новая папка\laba4\laba4\laba4.cpp(10,31): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+D:\Новая папка\laba4\laba4\Computer_game.h(16,7): message : см. объявление "Computer_game::setNumber_of_player"
+D:\Новая папка\laba4\laba4\laba4.cpp(12,45): warning C4305: аргумент: усечение из "double" в "const float"
+D:\Новая папка\laba4\laba4\laba4.cpp(13,44): warning C4305: аргумент: усечение из "double" в "const float"
+D:\Новая папка\laba4\laba4\laba4.cpp(18,27): error C2660: Computer_game::setName: функция не принимает 1 аргументов
+D:\Новая папка\laba4\laba4\Computer_game.h(21,7): message : см. объявление "Computer_game::setName"
+D:\Новая папка\laba4\laba4\laba4.cpp(19,38): error C2664: "void Computer_game::setNumber_of_player(const char *)": невозможно преобразовать аргумент 1 из "int" в "const char *"
+D:\Новая папка\laba4\laba4\laba4.cpp(19,31): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+D:\Новая папка\laba4\laba4\Computer_game.h(16,7): message : см. объявление "Computer_game::setNumber_of_player"
+D:\Новая папка\laba4\laba4\laba4.cpp(21,45): warning C4305: аргумент: усечение из "double" в "const float"
+D:\Новая папка\laba4\laba4\laba4.cpp(22,44): warning C4305: аргумент: усечение из "double" в "const float"
+D:\Новая папка\laba4\laba4\laba4.cpp(28,53): error C2660: Computer_game::setName: функция не принимает 1 аргументов
+D:\Новая папка\laba4\laba4\Computer_game.h(21,7): message : см. объявление "Computer_game::setName"
+D:\Новая папка\laba4\laba4\laba4.cpp(29,37): error C2664: "void Computer_game::setNumber_of_player(const char *)": невозможно преобразовать аргумент 1 из "int" в "const char *"
+D:\Новая папка\laba4\laba4\laba4.cpp(29,31): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+D:\Новая папка\laba4\laba4\Computer_game.h(16,7): message : см. объявление "Computer_game::setNumber_of_player"
+D:\Новая папка\laba4\laba4\laba4.cpp(31,45): warning C4305: аргумент: усечение из "double" в "const float"
+  Computer_game.cpp
+D:\Новая папка\laba4\laba4\laba4.cpp(32,44): warning C4305: аргумент: усечение из "double" в "const float"
+D:\Новая папка\laba4\laba4\Computer_game.cpp(11,13): error C3646: name: неизвестный спецификатор переопределения
+D:\Новая папка\laba4\laba4\Computer_game.cpp(11,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Новая папка\laba4\laba4\Computer_game.cpp(22,140): error C2061: синтаксическая ошибка: идентификатор "string"
+D:\Новая папка\laba4\laba4\Computer_game.cpp(26,3): error C2065: cout: необъявленный идентификатор
+  Создание кода...
+D:\Новая папка\laba4\laba4\Computer_game.cpp(26,39): error C2065: endl: необъявленный идентификатор
